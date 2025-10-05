@@ -1,1 +1,5 @@
 *.onnx
+
+mlflow-demo-1/ml*
+*/.*/
+
