@@ -34,3 +34,6 @@ jobs:
         file: ./Dockerfile
         push: false
         tags: sualeh-class/roberta/:latest
+
+   # run acceptance tests
+   

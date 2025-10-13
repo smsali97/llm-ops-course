@@ -2,4 +2,8 @@
 
 mlflow-demo-1/ml*
 */.*/
-
+*/*/ml*
+*/*/*/ml*
+mlflow-demo-1/mlflow-example/mlruns
+mlruns/*
+mlartifacts/*

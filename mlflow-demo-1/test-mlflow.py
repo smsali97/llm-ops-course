@@ -10,6 +10,8 @@ def main():
     log_artifact("produced_data.csv")
 
 
+
+
 if __name__ == "__main__":
     mlflow.set_tracking_uri('http://127.0.0.1:5000')
     main()
